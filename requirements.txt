@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+
+jupyter
+EmPy<4
+PyYAML
+catkin-pkg>=0.4.14
+requests-toolbelt<2,>=0.9.1
+iniconfig
+typeguard
